@@ -1,0 +1,18 @@
+#mrk{
+    background-color: black;
+    font-size: 20px;
+    border: 20px;
+  }
+  h1{
+    background-color: greenyellow;
+    font-size: 20px;
+  }
+  h2{
+    background-color: blueviolet;
+    font-size: 20px;
+    color: wheat;
+    border-radius: 10px;
+   /* border: 2px; */
+  }
+  
+  
